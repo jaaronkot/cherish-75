@@ -3,7 +3,7 @@ Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用�
 
 **主控**: STM32F072CBT6, USB分离小板
 
-**硬件PCB**：Flex Cut PCB，阻焊开窗(沉金)  https://oshwhub.com/caiyahoho/Cherish-75
+**硬件PCB**：Flex Cut PCB，阻焊开窗(沉金), 工程链接:  https://oshwhub.com/caiyahoho/Cherish-75
 
 **配列**：75%，小门牙配列
 
