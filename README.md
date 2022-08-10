@@ -18,15 +18,20 @@ Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用�
 **效果：**
 
 #### Top VIew
-
+black: 
 ![top](./imgs/top.png)
 
-
+white: 
+![top](./imgs/white-top.png)
 
 #### Bottom View
+black: 
 
 ![bottom](./imgs/bottom.png)
 
+white: 
+
+![bottom](./imgs/white-bottom.png)
 
 
 #### Layout
