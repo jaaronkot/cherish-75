@@ -1,5 +1,5 @@
 # Cherish-75
-Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用！
+Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流分享，禁止商用！
 
 **主控**: STM32F072CBT6, USB分离小板
 
@@ -11,9 +11,11 @@ Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用�
 
 **RGB:** 大写键 RGB
 
-**软件**：QMK & VIA
+**软件**：QMK & VIA，源码查看 `fireware` 目录
 
 **许可**：GPL3.0, 禁止商用
+
+**外壳**: 3D打印，文件查看 `3d-model`目录
 
 **效果：**
 
@@ -29,9 +31,15 @@ Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用�
 
 #### Layout
 
-![3d-view](./imgs/layout.png)
+![layout](./imgs/layout.png)
 
 #### Case
+
+![top-case](./imgs/3d-1.png)
+
+![top-case](./imgs/3d-2.png)
+
+![top-case](./imgs/3d-3.png)
 
 ![top-case](./imgs/top-case.png)
 
