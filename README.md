@@ -31,6 +31,13 @@ Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流�
 
 ![bottom](./imgs/white-bottom.png)
 
+### daughterboard:
+
+![daughterboard](./imgs/daughterboard-1.png)
+
+![daughterboard](./imgs/daughterboard-2.png)
+
+
 #### Layout
 
 ![layout](./imgs/layout.png)
