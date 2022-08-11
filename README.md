@@ -22,6 +22,7 @@ Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用�
  
 ![bottom](./imgs/bottom.png)
 
+![mcu](./imgs/mcu.png)
 ### white: 
 ![top](./imgs/white-top.png)
  
@@ -30,3 +31,9 @@ Cherish-75，客制化机械键盘，旨在客制化交流分享，禁止商用�
 #### Layout
 
 ![3d-view](./imgs/layout.png)
+
+#### Case
+
+![top-case](./imgs/top-case.png)
+
+![bottom-case](./imgs/bottom-case.png)
