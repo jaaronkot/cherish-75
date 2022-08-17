@@ -19,31 +19,32 @@ Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流�
 
 **感谢**：客制化入坑半年，工作加班也比较多，感谢老婆大人的宽容让我有时间折腾
 
-**效果：**
 
+### 实体
+![pic](./imgs/bd-1.jpg)
 
-### black: 
+### Black: 
 ![top](./imgs/top.png)
 
 ![bottom](./imgs/bottom.png)
 
-### white: 
+### White: 
 ![top](./imgs/white-top.png)
 
 ![bottom](./imgs/white-bottom.png)
 
-### daughterboard:
+### Daughterboard:
 
 ![daughterboard](./imgs/daughterboard-1.png)
 
 ![daughterboard](./imgs/daughterboard-2.png)
 
 
-#### Layout
+### Layout
 
 ![layout](./imgs/layout.png)
 
-#### Case
+### Case
 
 ![top-case](./imgs/3d-1.png)
 
@@ -54,3 +55,10 @@ Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流�
 ![top-case](./imgs/top-case.png)
 
 ![bottom-case](./imgs/bottom-case.png)
+
+### PCB打样
+**焊接：**
+![pic](./imgs/pcb-1.jpg)
+
+**PCB：**
+![pic](./imgs/pcb-2.jpg)
