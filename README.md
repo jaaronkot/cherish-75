@@ -52,6 +52,9 @@ Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流�
 
 ![layout](./imgs/layout.png)
 
+**via support**
+![layout](./imgs/cherish-75-via.png)
+
 ### Case
 
 ![top-case](./imgs/3d-1.png)
