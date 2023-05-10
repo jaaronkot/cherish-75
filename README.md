@@ -1,11 +1,4 @@
-<!--
- * @Author: gezhaoyou gezhaoyou@126.com
- * @Date: 2022-08-09 14:14:02
- * @LastEditors: gezhaoyou gezhaoyou@126.com
- * @LastEditTime: 2022-08-26 10:01:06
- * @FilePath: /ffmpeg/Users/admin/works/repos/open/github/Cherish-75/README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+ * 
 # Cherish-75
 Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流分享，禁止商用！
 
@@ -27,6 +20,10 @@ Cherish-75，客制化机械键盘，PCB已打样验证，旨在客制化交流�
 
 **感谢**：客制化入坑半年，工作加班也比较多，感谢老婆大人的宽容让我有时间折腾
 
+### 交流
+**QQ群：** 719438619
+**知识星球**：
+![xingqiu](./imgs/xingqiu.jpg)
 
 ### 实体
 ![pic](./imgs/bd-1.jpg)
