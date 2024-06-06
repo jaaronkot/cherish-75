@@ -7,6 +7,9 @@
 
 Cherish-75 is a customized mechanical keyboard featuring a Gasket structure, with its PCB already verified through prototyping.
 
+Qmk and via support,[Source Code](https://github.com/qmk/qmk_firmware/tree/master/keyboards/soda/cherish)
+
+## Features
 * License: MIT – Free to use and modify.
 * Controller: STM32F072CBT6, with a separate Type-C subboard ensuring soft elasticity.
 * PCB: Slotted PCB design with optional solder mask opening (gold plating available). See [Link](https://oshwhub.com/caiyahoho/Cherish-75) for the LCSC project.
@@ -15,6 +18,14 @@ Cherish-75 is a customized mechanical keyboard featuring a Gasket structure, wit
 * RGB: Features an RGB SMD LED beneath the Caps Lock key.
 * Firmware: Compatible with QMK & VIA. Refer to the [fireware] directory for details.
 * Case: 3D printed design with magnetic top and bottom covers. Check the [3d-model] directory for designs.
+
+## Instructions
+Magnet specifications: Diameter 3mm x thickness 2mm, available on TaoBao
+Circuit board: 5 pieces, JLCPCB, 110 yuan
+Components: Shaft support, chip, around 50 yuan, available on the JLCPCB online store
+Positioning board: With or without slots, recommended material is FR4 or POM, 30-40 yuan per sheet, recommended store on TaoBao is "Proud Cat" for high accuracy
+Place 2mm thick P foam on each pin of the PCB
+3D print the casing, options include JLCPCB's 3D Monkey or Future Factory, 3D Monkey has higher accuracy but slightly higher price, the upper and lower casing would be around 150-200 yuan.
 
 ```bash
 ├── case-and-plate
@@ -75,6 +86,11 @@ Cherish-75 is a customized mechanical keyboard featuring a Gasket structure, wit
 ![top-case](./imgs/3d-2.png)
 
 ## Physical
+
+### Plate
+
+[plate-1.jpg](imgs/plate-1.jpg)
+
 ### PCB 
 
 ![pic-3](./imgs/pcb-3.jpg)
